@@ -13,6 +13,8 @@
 ## Overview of the Project
 
 ### Project: TO-DO LIST APPLICATION WITH LOCAL STORAGE
+![image](https://github.com/user-attachments/assets/8e487008-be58-49e6-aab0-04c89525b339)
+
 
 ### Objective:
 The objective of a to-do list is to organize, prioritize, and manage tasks effectively.
